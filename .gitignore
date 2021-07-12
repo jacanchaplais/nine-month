@@ -35,3 +35,6 @@ coverage.xml
 
 recordings/
 report.pdf
+
+# local website builds
+public/
