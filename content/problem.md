@@ -1,5 +1,5 @@
 # Introduction {
-data-background-image='graphics/pawel-czerwinski_7.jpg'
+data-background-image='img/bg/pawel-czerwinski_7.jpg'
 data-background-opacity=0.5
 }
 
@@ -14,9 +14,9 @@ data-background-opacity=0.5
 - How can the data's rich topology be used to improve inference?
 
 ## Collider detectors {
-data-background-image="graphics/pawel-czerwinski_7.jpg"
+data-background-image="img/bg/pawel-czerwinski_7.jpg"
 data-background-opacity=0.2
 }
 
-![](assets/collider.png){ width=80% }
+![](img/fig/collider.png){ width=80% }
 

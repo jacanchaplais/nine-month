@@ -1,5 +1,5 @@
 # The task {
-data-background-image='graphics/pawel-czerwinski_8.jpg'
+data-background-image='img/bg/pawel-czerwinski_8.jpg'
 data-background-opacity=0.2
 }
 

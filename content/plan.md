@@ -1,5 +1,5 @@
 # Research plan {
-data-background-image='graphics/sharon-mccutcheon.jpg'
+data-background-image='img/bg/sharon-mccutcheon.jpg'
 data-background-opacity=0.2
 }
 

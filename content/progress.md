@@ -1,5 +1,5 @@
 # Progress {
-data-background-image='graphics/jason-leung_3.jpg'
+data-background-image='img/bg/jason-leung_3.jpg'
 data-background-opacity=0.35
 }
 
@@ -18,7 +18,7 @@ This implementation of the Interaction Network has some limitations.
 - No benefit from particle properties, _eg._ charge, mass, spin, _etc._
 
 ## Results {
-data-background-image='graphics/jason-leung_3.jpg'
+data-background-image='img/bg/jason-leung_3.jpg'
 data-background-opacity=0.25
 }
 
@@ -28,7 +28,7 @@ data-background-opacity=0.25
 
 ![
 Precision and recall for our network.
-](assets/prec_rec.svg){#fig:my_prec_rec}
+](img/fig/prec_rec.svg){#fig:my_prec_rec}
 
 :::
 ::: {.column width="52%"}
