@@ -18,5 +18,5 @@ data-background-image='graphics/pawel-czerwinski_7.jpg'
 data-background-opacity=0.2
 }
 
-![](../assets/collider.png){ width=80% }
+![](assets/collider.png){ width=80% }
 
