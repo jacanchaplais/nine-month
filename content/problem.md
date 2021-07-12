@@ -11,7 +11,7 @@ data-background-opacity=0.5
     - measure different particle properties $\implies$ heterogeneous
     - particle interactions depend on distances $\implies$ complex locality
 - Goal: infer $\sim$ 1 fm interactions from this macroscopic spread of data
-- How can the data's rich topology be used to improve inference?
+- How can the data's rich topology be used to improve inference? Test.
 
 ## Collider detectors {
 data-background-image="img/bg/pawel-czerwinski_7.jpg"
