@@ -1,6 +1,6 @@
 compile_report:
-	@[ -d 'public/' ] && rm -rf public/ && mkdir public/
-	@mkdir public/css/
+	@if [[ -d 'public/' ]] ; then rm -rf public/ ; fi
+	@mkdir -p public/css/
 	@pysassc src/scss/main.scss public/css/custom.css
 	@rsync -rau static/* public/
 	@pandoc --defaults=templates/build.yaml
