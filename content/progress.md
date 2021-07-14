@@ -22,6 +22,8 @@ This implementation of the Interaction Network has some limitations.
 
 - precision is defined as the ratio of true positive predictions against
   the sum of true positive and false positive predictions.
+- Recall is defined as the ratio of true positive predictions against
+  the total number of positive examples.
 
 :::
 
