@@ -17,6 +17,14 @@ This implementation of the Interaction Network has some limitations.
     - topologically homogeneous
 - No benefit from particle properties, _eg._ charge, mass, spin, _etc._
 
+:::notes
+- might ask about why I'm using simulation data
+
+- precision is defined as the ratio of true positive predictions against
+  the sum of true positive and false positive predictions.
+
+:::
+
 ## Results {
 data-background-image='img/bg/jason-leung_3.jpg'
 data-background-opacity=0.25
@@ -44,8 +52,3 @@ Precision and recall for our network.
 
 :::
 ::::::::::::::
-
-:::notes
-might ask about why I'm using simulation data
-
-:::
